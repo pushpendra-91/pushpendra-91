@@ -6,10 +6,11 @@
 [**LinkedIn**](https://www.linkedin.com/in/pushpendra91/) | [**Twitter**](https://twitter.com/Pushpendraa_pr)
 
 ## Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pushpendra-91&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/>
+<!--
 ![Activity Stats](https://github-readme-stats.vercel.app/api?username=pushpendra-91&show_icons=true&theme=dark)
 [![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=pushpendra-91&layout=compact&theme=dark)](https://github.com/pushpendra-91/github-readme-stats)
-
-<!--
 **pushpendra-91/pushpendra-91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
