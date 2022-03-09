@@ -6,7 +6,7 @@
 [**LinkedIn**](https://www.linkedin.com/in/pushpendra91/) | [**Twitter**](https://twitter.com/Pushpendraa_pr)
 
 ## Stats
-![Pushpendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushpendra-91&show_icons=true&theme=dark)
+![Activity Stats](https://github-readme-stats.vercel.app/api?username=pushpendra-91&show_icons=true&theme=dark)
 [![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=pushpendra-91&layout=compact&theme=dark)](https://github.com/pushpendra-91/github-readme-stats)
 
 <!--
