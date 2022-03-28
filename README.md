@@ -10,8 +10,8 @@
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=pushpendra-91&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/>|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpendra-91&layout=compact&theme=buefy&hide_border=true" />|
 | ------------- | ------------- |
 
-|![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pushpendra-91)|![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=pushpendra-91)|
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pushpendra-91)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=pushpendra-91)
 
 ![Profile views](https://gpvc.arturio.dev/pushpendra-91)  
 <!--
