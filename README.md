@@ -5,7 +5,7 @@
 
 [**LinkedIn**](https://www.linkedin.com/in/pushpendra91/) | [**Twitter**](https://twitter.com/Pushpendraa_pr)
 
-<!-- [![@pushpendra91's Holopin board](https://holopin.io/api/user/board?user=pushpendra91)](https://holopin.io/@pushpendra91) -->
+[![@pushpendra91's Holopin board](https://holopin.io/api/user/board?user=pushpendra91)](https://holopin.io/@pushpendra91)
 
 ## Stats
 
