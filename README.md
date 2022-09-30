@@ -19,6 +19,9 @@
 <!--
 ![Activity Stats](https://github-readme-stats.vercel.app/api?username=pushpendra-91&show_icons=true&theme=dark)
 [![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=pushpendra-91&layout=compact&theme=dark)](https://github.com/pushpendra-91/github-readme-stats)
+
+[![Activity graph](https://activity-graph.herokuapp.com/graph?username=pushpendra-91&theme=dracula)](https://github.com/pushpendra-91/github-readme-activity-graph)
+
 **pushpendra-91/pushpendra-91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
