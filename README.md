@@ -17,7 +17,7 @@
 
 <!-- [![Activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pushpendra-91&theme=dracula)](https://github.com/pushpendra-91/github-readme-activity-graph) -->
 
-[![Activity graph](https://activity-graph.herokuapp.com/graph?username=pushpendra-91&theme=dracula)](https://github.com/pushpendra-91/github-readme-activity-graph)
+<!-- [![Activity graph](https://activity-graph.herokuapp.com/graph?username=pushpendra-91&theme=dracula)](https://github.com/pushpendra-91/github-readme-activity-graph) -->
 
 ![Profile views](https://gpvc.arturio.dev/pushpendra-91)  
 <!--
