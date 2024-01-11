@@ -9,6 +9,8 @@
 [![@pushpendra91's Holopin board](https://holopin.io/api/user/board?user=pushpendra91)](https://holopin.io/@pushpendra91)
 
 ## Stats
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=pushpendra-91&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/>|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpendra-91&layout=compact&theme=buefy&hide_border=true" />|
+| ------------- | ------------- |
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pushpendra-91&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
 
