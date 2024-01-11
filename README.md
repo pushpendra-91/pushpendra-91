@@ -13,7 +13,7 @@
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=pushpendra-91&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/>|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpendra-91&layout=compact&theme=buefy&hide_border=true" />|
 | ------------- | ------------- |
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pushpendra-91)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pushpendra-91)
 
 <!-- [![Activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pushpendra-91&theme=dracula)](https://github.com/pushpendra-91/github-readme-activity-graph) -->
 
