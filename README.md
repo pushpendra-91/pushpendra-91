@@ -5,9 +5,6 @@
 
 [**LinkedIn**](https://www.linkedin.com/in/pushpendra91/) | [**Twitter**](https://twitter.com/Pushpendraa_pr)
 
-## Badges
-[![@pushpendra91's Holopin board](https://holopin.io/api/user/board?user=pushpendra91)](https://holopin.io/@pushpendra91)
-
 ## Stats
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=pushpendra-91&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/>|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpendra-91&layout=compact&theme=buefy&hide_border=true" />|
 | ------------- | ------------- |
@@ -18,7 +15,6 @@
 
 <!-- [![Activity graph](https://activity-graph.herokuapp.com/graph?username=pushpendra-91&theme=dracula)](https://github.com/pushpendra-91/github-readme-activity-graph) -->
 
-![Profile views](https://gpvc.arturio.dev/pushpendra-91)  
 <!--
 ![Activity Stats](https://github-readme-stats.vercel.app/api?username=pushpendra-91&show_icons=true&theme=dark)
 [![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=pushpendra-91&layout=compact&theme=dark)](https://github.com/pushpendra-91/github-readme-stats)
